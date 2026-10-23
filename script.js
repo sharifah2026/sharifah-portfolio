@@ -1,5 +1,5 @@
 // عدّلي هذا البريد قبل النشر.
-const contactEmail = 'your-email@example.com';
+const contactEmail = 'om.nada1404@gmail.com';
 // أضيفي إنجازاتك هنا. الصورة اختيارية: ضعي ملف الصورة في assets/ ثم اكتبي المسار مثل assets/project-1.jpg
 const projects = [
   {
